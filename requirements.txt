@@ -1,0 +1,6 @@
+llama-index-core
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+psycopg2-binary
+streamlit
+python-dotenv
